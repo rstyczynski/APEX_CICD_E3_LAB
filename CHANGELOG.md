@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.5](https://github.com/rstyczynski/APEX_CICD_E3_LAB/compare/v1.0.4...v1.0.5) (2026-11-03)
+
+
+### Bug Fixes
+
+* update demo page title ([3c6f59f](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/3c6f59f454b977b90069988ccaff7c497667c2c8))
+
 ## [1.0.4](https://github.com/rstyczynski/APEX_CICD_E3/compare/v1.0.3...v1.0.4) (2026-11-03)
 
 
