@@ -110,7 +110,7 @@ wwv_imp_workspace.create_flow(
 ,p_substitution_value_01=>'APEX Delivery Laboratory'
 ,p_file_prefix => nvl(wwv_flow_application_install.get_static_app_file_prefix,'')
 ,p_files_version=>6
-,p_version_scn=>4906857
+,p_version_scn=>5081163
 ,p_print_server_type=>'NATIVE'
 ,p_file_storage=>'DB'
 ,p_is_pwa=>'Y'
@@ -987,7 +987,7 @@ wwv_flow_imp_page.create_page(
  p_id=>1
 ,p_name=>'Home'
 ,p_alias=>'HOME'
-,p_step_title=>'Hello World - Git pipeline'
+,p_step_title=>'Hello World - Git pipeline no.2'
 ,p_allow_duplicate_submissions=>'N'
 ,p_autocomplete_on_off=>'OFF'
 ,p_page_template_options=>'#DEFAULT#'
@@ -2979,4 +2979,4 @@ prompt  ...done
 
 
 
--- sqlcl_snapshot {"hash":"f444bb233edd2fffcf238ff60eb0d25d889e1b4a","type":"APEX_APPLICATIONS","name":"f810003","schemaName":"E1_DEV_C","sxml":""}
+-- sqlcl_snapshot {"hash":"6fcc0096f9871a2c8690caf48f25366758e8dccc","type":"APEX_APPLICATIONS","name":"f810003","schemaName":"E1_DEV_C","sxml":""}
