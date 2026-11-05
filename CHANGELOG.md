@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.5] - 2026-11-05
+
+### Bug Fixes
+
+* Prepare the native SQLcl numbered release before artifact generation; publish a tag only after committing its distribution.
+
 ## [1.0.4](https://github.com/rstyczynski/APEX_CICD_E3/compare/v1.0.3...v1.0.4) (2026-11-03)
 
 
