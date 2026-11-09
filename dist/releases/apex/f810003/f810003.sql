@@ -110,7 +110,7 @@ wwv_imp_workspace.create_flow(
 ,p_substitution_value_01=>'APEX Delivery Laboratory'
 ,p_file_prefix => nvl(wwv_flow_application_install.get_static_app_file_prefix,'')
 ,p_files_version=>6
-,p_version_scn=>5081163
+,p_version_scn=>6169266
 ,p_print_server_type=>'NATIVE'
 ,p_file_storage=>'DB'
 ,p_is_pwa=>'Y'
@@ -1328,7 +1328,7 @@ wwv_flow_imp_page.create_page(
 );
 wwv_flow_imp_page.create_page_plug(
  p_id=>wwv_flow_imp.id(3281652846095892)
-,p_plug_name=>'Hello entries'
+,p_plug_name=>'Hello entries - deferred B'
 ,p_region_template_options=>'#DEFAULT#:t-IRR-region--hideHeader js-addHiddenHeadingRoleDesc'
 ,p_plug_template=>2100526641005906379
 ,p_plug_display_sequence=>10
@@ -2979,4 +2979,4 @@ prompt  ...done
 
 
 
--- sqlcl_snapshot {"hash":"1e66c7dbafcc4a735b6fec0b659b233a25e5080c","type":"APEX_APPLICATIONS","name":"f810003","schemaName":"E1_DEV_C","sxml":""}
+-- sqlcl_snapshot {"hash":"c225f8ecf73784b3dd211f7b34be0eaa77be5ef0","type":"APEX_APPLICATIONS","name":"f810003","schemaName":"E1_DEV_C","sxml":""}
