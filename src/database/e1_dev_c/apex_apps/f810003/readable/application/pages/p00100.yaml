@@ -37,10 +37,10 @@ server-cache:
   caching: Disabled
 
 regions: 
-- # ====== Region: Hello entries ===============================
+- # ====== Region: Hello entries - deferred B ==================
   id: 3281652846095892
   identification: 
-    name: Hello entries
+    name: Hello entries - deferred B
     type: Interactive Report
 
   source: 
@@ -353,7 +353,7 @@ buttons:
 
   layout: 
     sequence: 10
-    region: Hello entries # 3281652846095892
+    region: Hello entries - deferred B # 3281652846095892
     slot: RIGHT_OF_IR_SEARCH_BAR
     start-new-layout: false
     start-new-row: true
@@ -390,7 +390,7 @@ dynamic-actions:
   when: 
     event: Dialog Closed
     selection-type: Region
-    region: Hello entries # 3281652846095892
+    region: Hello entries - deferred B # 3281652846095892
 
   actions: 
   - # ====== Action: Refresh =====================================
@@ -403,7 +403,7 @@ dynamic-actions:
 
     affected-elements: 
       selection-type: Region
-      region: Hello entries # 3281652846095892
+      region: Hello entries - deferred B # 3281652846095892
 
     execution: 
       sequence: 10
