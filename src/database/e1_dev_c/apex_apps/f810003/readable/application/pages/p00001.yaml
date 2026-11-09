@@ -19,6 +19,9 @@ navigation:
   cursor-focus: Do not focus cursor
   warn-on-unsaved-changes: true
 
+header-and-footer: 
+  header-text: '<p>E4 A: Select Hello and World values, then record the greeting.</p>'
+
 security: 
   authentication: Page Requires Authentication
   deep-linking: Application Default
