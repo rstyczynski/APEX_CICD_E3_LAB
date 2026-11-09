@@ -1,7 +1,7 @@
 name: PR checks
 on:
   pull_request:
-    branches: [main]
+    branches: [main, release-e4-candidate]
     types: [opened, reopened, synchronize, edited, labeled, unlabeled]
   workflow_dispatch:
     inputs:
