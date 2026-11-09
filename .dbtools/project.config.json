@@ -6,7 +6,7 @@
     "autoConnect" : false
   },
   "schemas" : [ "E1_DEV_C" ],
-  "lastReleaseVersion" : "1.0.5",
+  "lastReleaseVersion" : "1.0.7",
   "export" : {
     "format" : {
       "enable" : true
