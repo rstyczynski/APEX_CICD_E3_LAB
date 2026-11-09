@@ -1,5 +1,28 @@
 # Changelog
 
+## [1.0.7](https://github.com/rstyczynski/APEX_CICD_E3_LAB/compare/v1.0.6...v1.0.7) (2026-11-09)
+
+
+### Bug Fixes
+
+* capture independent E4 A page contribution ([e14d8b1](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/e14d8b1dcc4a50ebd0a26a3ce298923bb217adc6))
+* capture independent E4 C page contribution ([aaf52fa](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/aaf52fa6fdf1833b7f0cd695b52a66c4666e86bd))
+* clarify the World report label (C) ([6655ebc](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/6655ebc0fb24eba335f6ff17bdabf2a56d493da0))
+* explain E4 release participation in later main baseline ([8c999cb](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/8c999cb59a959151a4af10ee19da699a4f32d880))
+* explain greeting choices on Home (A) ([bbd54f6](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/bbd54f65b020d3827c148b06c80775c9cf26e4e0))
+* prepare native release validation 1.0.5 ([05c54da](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/05c54daa6756ed4222a6493cdf6dd78dae8a5d4f))
+* promote selected E4 A and C release candidate ([d97a417](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/d97a417531f864b8efb1e36f51b516db760ee387))
+* qualify independent E4 native baseline ([5a7655f](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/5a7655ffd3e6be92bcd88e9581612be17dc3059c))
+* reconcile native baseline for independent E4 fixtures ([407521c](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/407521cbc3ba0beadc5cb66205848e005dc33aa9))
+* reconcile selected A and C through native integration fixture ([dedbe91](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/dedbe91d65dedcf657dc1309b1edfb6456358b15))
+* record the later E4 release baseline context ([a018a67](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/a018a677653935200ff32eb9982f207a72bbd162))
+* regenerate native distribution for resolved A and C ([8485f81](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/8485f8149f30e2add49b8f5501755b3d80a13842))
+* reproduce original constraint metadata in E4 fixtures ([d4acafc](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/d4acafc298aace236e13c88d396712c7efda4118))
+* require native release before packaging and publication ([5e0ac11](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/5e0ac11fb93955f3806f5b55f917eb0c36196864))
+* stage independent E4 A native contribution ([fdb7551](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/fdb755155dce91541404af43ecc7e02ff63e9275))
+* stage independent E4 C native contribution ([2c96689](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/2c966891b0bfd06fbfeff3f0500501eeb7b69f22))
+* stage qualified E4 native baseline ([4477a3f](https://github.com/rstyczynski/APEX_CICD_E3_LAB/commit/4477a3f7fc42de06f31ab0ccbad9b46491d5a4ef))
+
 ## [1.0.6](https://github.com/rstyczynski/APEX_CICD_E3_LAB/compare/v1.0.5...v1.0.6) (2026-11-04)
 
 
