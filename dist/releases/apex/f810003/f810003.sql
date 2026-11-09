@@ -2050,7 +2050,7 @@ wwv_flow_imp_page.create_page(
 );
 wwv_flow_imp_page.create_page_plug(
  p_id=>wwv_flow_imp.id(3281889955091972)
-,p_plug_name=>'World entries'
+,p_plug_name=>'World entries - selected C'
 ,p_region_template_options=>'#DEFAULT#:t-IRR-region--hideHeader js-addHiddenHeadingRoleDesc'
 ,p_plug_template=>2100526641005906379
 ,p_plug_display_sequence=>10
@@ -2980,4 +2980,4 @@ prompt  ...done
 
 
 
--- sqlcl_snapshot {"hash":"22d2176f6577893d04046234e57ce85f62c34421","type":"APEX_APPLICATIONS","name":"f810003","schemaName":"E1_DEV_C","sxml":""}
+-- sqlcl_snapshot {"hash":"27a5ce03d9d2ce14bcf5ea2fa7c4b27b9c102024","type":"APEX_APPLICATIONS","name":"f810003","schemaName":"E1_DEV_C","sxml":""}
